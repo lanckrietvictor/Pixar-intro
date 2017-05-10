@@ -1,3 +1,3 @@
 # Pixar-intro
 
-Il y a des problèmes avec la taille
+Il y a un problème avec la taille, ça marche que pour un certaine taille.
